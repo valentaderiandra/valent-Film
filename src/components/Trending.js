@@ -27,7 +27,7 @@ const Trending = () => {
         <br/>
         <h1 className="text-white">TRENDING MOVIES</h1>
         <Row>
-          {movies.map((result, index) =>{
+          {movies && movies.map((result, index) =>{
             return (
               <Col md={4} className="MovieWrapper" id="Trending" key={index}>
             <Card className= "text-dark text-center MovieImage">
