@@ -1,0 +1,11 @@
+From : https://developers.themoviedb.org/3/getting-started/introduction
+
+API Key (v3 auth)
+b9fe7b2dd3afe2267c150659217ced4a
+
+Example API Request
+https://api.themoviedb.org/3/movie/550?api_key=b9fe7b2dd3afe2267c150659217ced4a
+
+API Read Access Token (v4 auth)
+eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiOWZlN2IyZGQzYWZlMjI2N2MxNTA2NTkyMTdjZWQ0YSIsInN1YiI6IjYzZDNmYjRhZDlmNGE2MDBjNGQ1NmI5NiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.Mh6HXurr_-rJzXO1VzdlBSy4IpSqQmZOu6Ylq_WZ6wY
+
